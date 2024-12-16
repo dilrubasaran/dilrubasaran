@@ -13,7 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dilrubasaran/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
 
@@ -30,15 +31,15 @@
 
 ### 📊 GitHub Stats:
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilrubasaran&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dilrubasaran&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
 
 
 ### 🔥 Contributions:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilrubasaran&" alt="GitHub Streak" />
 </p>
