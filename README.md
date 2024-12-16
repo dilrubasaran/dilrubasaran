@@ -1,6 +1,6 @@
 
 
-**dilrubasaran/dilrubasaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <h1 align="center">Hi 👋, I'm Dilruba Başaran</h1>
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
@@ -9,7 +9,6 @@
 - 👯 I’m looking to collaborate on **Html, Css, React, C#,**
 - 📫 How to reach me: **dilrubabasarann@gmail.com**
 
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,7 +17,6 @@
 </a>
 </p>
 
----
 
 ### Languages and Tools:
 <p align="left">
@@ -29,7 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
 </p>
 
----
 
 ### 📊 GitHub Stats:
 <div>
@@ -40,7 +37,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
 
----
 
 ### 🔥 Contributions:
 <p align="center">
