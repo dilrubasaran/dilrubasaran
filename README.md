@@ -41,8 +41,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dilrubasaran&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
 
-
-### 🔥 Contributions:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilrubasaran&" alt="GitHub Streak" />
-</p>
