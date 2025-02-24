@@ -4,11 +4,11 @@
 
 <h1 align="center">Hi 👋, I'm Dilruba Başaran</h1>
 <h3 align="center">A ambitious developer from Turkey</h3>
-
+<p align= center >
 - 🌱 I’m currently working on **.Net Core, Flutter**
 - 👯 I’m looking to collaborate on **Html, Css, C#,**
-- 📫 How to reach me: **dilrubabasarann@gmail.com**
-
+- 📫 How to reach me: **dilrubabasarann@gmail.com** 
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
