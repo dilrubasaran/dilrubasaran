@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Dilruba Başaran</h1>
-<h3 align="center">A passionate developer from Turkey</h3>
+<h3 align="center">A ambitious developer from Turkey</h3>
 
 - 🌱 I’m currently working on **.Net Core, Flutter**
 - 👯 I’m looking to collaborate on **Html, Css, React, C#,**
