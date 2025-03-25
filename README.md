@@ -17,6 +17,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/dilrubasaran/" target="blank">
+<a href="https://www.instagram.com/dev.dilruba/" target"blank">
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
 </a>
