@@ -22,10 +22,14 @@
 </p>
 
 <p align="center">
-<a href="https://www.instagram.com/dev.dilruba/" target"blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/instagram/instagram-original.svg" alt="Instagram" height="30" width="40" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
+<a href="https://www.instagram.com/dev.dilruba/" target="_blank">
+  <i class="fab fa-instagram" style="font-size: 30px; color: #E4405F;"></i>
 </a>
 </p>
+
+
 
 
 <h4 align= center> Languages and Tools: </h4>
