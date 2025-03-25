@@ -23,7 +23,7 @@
          alt="LinkedIn" height="30" width="40" />
   </a>
   
-  <span style="display: inline-block; width: 20px;"></span> <!-- Boşluk eklemek için -->
+<br>
 
   <a href="https://www.instagram.com/dev.dilruba/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" 
