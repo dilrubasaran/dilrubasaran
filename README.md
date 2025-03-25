@@ -22,11 +22,11 @@
 </p>
 
 <p align="center">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-
 <a href="https://www.instagram.com/dev.dilruba/" target="_blank">
-  <i class="fab fa-instagram" style="font-size: 30px; color: #E4405F;"></i>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" 
+       alt="Instagram" height="30" width="30" style="border-radius: 5px;"/>
 </a>
+
 </p>
 
 
